@@ -1,0 +1,16 @@
+#mynavbar {background-color: #1ABBFF; border-radius: 5px;}
+#mynavbar li a {color: whitesmoke;}
+#mynavbar li a:hover {background-color: whitesmoke; color: #1B86B3;}
+
+body{background-color: #1B86B3; border-right:  solid 5px#F2B705;}
+footer {background-color: #1D738F;}
+
+#wtext{color: white;}
+a:link { text-decoration: none; color: black; }
+a:hover { color: darkblue; text-decoration: underline;}
+
+.carousel, .carousel img  {height: 500px; margin: auto;}
+
+/*The below was supposed to help make columns, but it didnt apply to an embeded video well, and it didnt look good in mobile, but it is cool so Im keeping it here. */
+.row {display: flex;}
+.column {flex: 90%; padding: 5px;}
